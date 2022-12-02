@@ -1,0 +1,30 @@
+{
+    "name": "ben/quiboitquoi",
+    "autoload": {
+        "psr-4": {
+            "Ben\\Quiboitquoi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bensaadmucret",
+            "email": "bensaadmucret@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^6.2",
+        "phpunit/phpunit": "^9"
+    },
+
+    "autoload-dev": {
+        "psr-4": {
+            "Ben\\Quiboitquoi\\Tests\\": "tests/"
+        }
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Ben\\Quiboitquoi\\": "src/"
+        }
+    }
+}

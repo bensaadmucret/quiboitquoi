@@ -1,0 +1,66 @@
+i!{
+    "magasin": "0044",
+    "fournisseur": "CENTRAL",
+    "filiere": 200,
+    "contratCommercial": "06A",
+    "produits": [
+        {
+            "irefc": "1332907G",
+            "vl": 2,
+            "planningCommande": [
+                {
+                    "dateLimCommandePartenaire": "2022-09-18T00:00:00",
+                    "dateRamasse": "2022-09-19T08:30:00",
+                    "dateLivraison": "2022-09-21T08:00:00"
+                },
+                {
+                    "dateLimCommandePartenaire": "2022-09-20T00:00:00",
+                    "dateRamasse": "2022-09-21T08:30:00",
+                    "dateLivraison": "2022-09-23T08:00:00"
+                }
+            ]
+        },
+        {
+            "irefc": "1245740G",
+            "vl": 6,
+            "planningCommande": [
+                {
+                    "dateLimCommandePartenaire": "2022-09-20T00:00:00",
+                    "dateRamasse": "2022-09-21T08:30:00",
+                    "dateLivraison": "2022-09-23T08:00:00"
+                },
+                {
+                    "dateLimCommandePartenaire": "2022-09-20T00:00:00",
+                    "dateRamasse": "2022-09-21T08:30:00",
+                    "dateLivraison": "2022-09-26T08:00:00"
+                },
+                {
+                    "dateLimCommandePartenaire": "2022-09-20T00:00:00",
+                    "dateRamasse": "2022-09-21T08:30:00",
+                    "dateLivraison": "2022-10-01T08:00:00"
+                },
+                {
+                    "dateLimCommandePartenaire": "2022-09-20T00:00:00",
+                    "dateRamasse": "2022-09-21T08:30:00",
+                    "dateLivraison": "2022-10-04T08:00:00"
+                },
+                {
+                    "dateLimCommandePartenaire": "2022-09-18T00:00:00",
+                    "dateRamasse": "2022-09-19T08:30:00",
+                    "dateLivraison": "2022-09-21T08:00:00"
+                }
+            ]
+        },
+        {
+            "irefc": "1245740G",
+            "vl": 7,
+            "planningCommande": [
+                {
+                    "dateLimCommandePartenaire": "2022-08-01T00:00:00",
+                    "dateRamasse": "2022-09-19T08:30:00",
+                    "dateLivraison": "2022-09-21T08:00:00"
+                }
+            ]
+        }
+    ]
+}
